@@ -1,0 +1,6 @@
+.fondo{
+    background-color: #FFA500;
+}
+/*clubes.blade.php
+Botón para crear club {{ route('clubs.create') }}
+Barra de búsqueda {{ route('clubs.index') }}*/
